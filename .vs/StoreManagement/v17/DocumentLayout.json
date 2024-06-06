@@ -1,0 +1,675 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\StoreManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\carts\\getallusercarts\\getallusercartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\carts\\getallusercarts\\getallusercartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\responcemodel\\carts\\getallcartlistresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\responcemodel\\carts\\getallcartlistresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\users\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\users\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\carts\\getallusercarts\\getallusercartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\carts\\getallusercarts\\getallusercartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\responcemodel\\users\\getuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\responcemodel\\users\\getuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\responcemodel\\users\\getuserlistresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\responcemodel\\users\\getuserlistresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\responcemodel\\users\\deleteuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\responcemodel\\users\\deleteuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\responcemodel\\users\\postuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\responcemodel\\users\\postuserresponcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\users\\getuserbyid\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\users\\getuserbyid\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\queries\\users\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\queries\\users\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\storemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\storemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\command\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\command\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aakash G\\3D Objects\\desktop.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240522184858_allModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagement\\Migrations\\20240522184858_allModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|d:\\dotnet\\storemanagement\\storemanagement\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D8ADC0-8230-464C-AC76-7B8619491869}|StoreManagement\\StoreManagement.csproj|solutionrelative:storemanagement\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\CartController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:32:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:08.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:54:51.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllUserCartQueryHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQueryHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQueryHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQueryHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQueryHandler.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:48:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllCartListResponceModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Carts\\GetAllCartListResponceModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\ResponceModel\\Carts\\GetAllCartListResponceModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Carts\\GetAllCartListResponceModel.cs",
+              "RelativeToolTip": "StoreManagement\\ResponceModel\\Carts\\GetAllCartListResponceModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:50:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Users\\GetUser\\GetUserQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:31:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllUserCartQuery.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQuery.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQuery.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQuery.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Carts\\GetAllUserCarts\\GetAllUserCartQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:47:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserResponceModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\GetUserResponceModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\ResponceModel\\Users\\GetUserResponceModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\GetUserResponceModel.cs",
+              "RelativeToolTip": "StoreManagement\\ResponceModel\\Users\\GetUserResponceModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:10:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Product.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Product.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:23:22.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Cart.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Cart.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Cart.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:22:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserLIstResponceModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\GetUserLIstResponceModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\ResponceModel\\Users\\GetUserLIstResponceModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\GetUserLIstResponceModel.cs",
+              "RelativeToolTip": "StoreManagement\\ResponceModel\\Users\\GetUserLIstResponceModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA3wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:31:58.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240525133241_foreignkeyadded.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs",
+              "RelativeToolTip": "StoreManagement\\Migrations\\20240525133241_foreignkeyadded.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAgwPUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:32:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\StoreDbContext.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\StoreDbContext.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\StoreDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:43:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\User.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\User.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\User.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:19:06.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Category.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Category.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:22:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Order.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Order.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA3wBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:23:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Role.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Role.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Role.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:23:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Wishlist.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Wishlist.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Wishlist.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:23:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommonModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\CommonModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\CommonModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\CommonModel.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\CommonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:22:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:59:16.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:58:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteUserResponceModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\DeleteUserResponceModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\ResponceModel\\Users\\DeleteUserResponceModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\DeleteUserResponceModel.cs",
+              "RelativeToolTip": "StoreManagement\\ResponceModel\\Users\\DeleteUserResponceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:00:24.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PostUserResponceModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\PostUserResponceModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\ResponceModel\\Users\\PostUserResponceModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\ResponceModel\\Users\\PostUserResponceModel.cs",
+              "RelativeToolTip": "StoreManagement\\ResponceModel\\Users\\PostUserResponceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:58:50.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:09:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUserById\\GetUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Users\\GetUserById\\GetUserQueryHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUserById\\GetUserQueryHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Users\\GetUserById\\GetUserQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA6wBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:10:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUser\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Queries\\Users\\GetUser\\GetUserQuery.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Queries\\Users\\GetUser\\GetUserQuery.cs",
+              "RelativeToolTip": "StoreManagement\\Queries\\Users\\GetUser\\GetUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:31:22.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:37:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreManagement.csproj",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+              "RelativeDocumentMoniker": "StoreManagement\\StoreManagement.csproj",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\StoreManagement.csproj",
+              "RelativeToolTip": "StoreManagement\\StoreManagement.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T17:11:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:44:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:37:28.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "StoreManagement\\Command\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:54:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "StoreManagement\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:13:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Carousel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Carousel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\Carousel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\Carousel.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\Carousel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:22:22.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\WeatherForecast.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "StoreManagement\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:15.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Program.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Program.cs",
+              "RelativeToolTip": "StoreManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:34:12.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreManagement\\appsettings.json",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\appsettings.json",
+              "RelativeToolTip": "StoreManagement\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T17:55:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "desktop.ini",
+              "DocumentMoniker": "C:\\Users\\Aakash G\\3D Objects\\desktop.ini",
+              "ToolTip": "C:\\Users\\Aakash G\\3D Objects\\desktop.ini",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-05-23T05:11:18.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "StoreManagement\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:32:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240522184858_allModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240522184858_allModel.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Migrations\\20240522184858_allModel.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Migrations\\20240522184858_allModel.cs",
+              "RelativeToolTip": "StoreManagement\\Migrations\\20240522184858_allModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:48:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BlackListedToken.cs",
+              "DocumentMoniker": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\BlackListedToken.cs",
+              "RelativeDocumentMoniker": "StoreManagement\\Models\\BlackListedToken.cs",
+              "ToolTip": "D:\\dotnet\\StoreManagement\\StoreManagement\\Models\\BlackListedToken.cs",
+              "RelativeToolTip": "StoreManagement\\Models\\BlackListedToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:21:24.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
